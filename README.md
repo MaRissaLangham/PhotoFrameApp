@@ -5,6 +5,6 @@ Time spent: 15 mins spent in total
 
 Here's a preview of my PhotoFrame App!
 
-http://g.recordit.co/fZLCEVgIFO.gif
+<img src='http://g.recordit.co/fZLCEVgIFO.gif' title='Preview Image' width='' alt='Preview Image' />
 
-GIF created with Recordit for macOS
+GIF created with [Recordit](https://recordit.co).
